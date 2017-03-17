@@ -1,0 +1,19 @@
+{
+  "name": "lab12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alsmolik/nodeLab12.git"
+  },
+  "author": "Smolik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alsmolik/nodeLab12/issues"
+  },
+  "homepage": "https://github.com/alsmolik/nodeLab12#readme"
+}
